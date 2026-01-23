@@ -1,18 +1,18 @@
 {
   "modules": [
     {
-      "id": "my-module-id",
-      "title": "My Cool Module",
-      "coverImage": "https://example.com/images/my-module-cover.jpg",
-      "isPremium": false,
+      "id": "ag-dragon-delves",
+      "title": "Dragon Delves",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/drde.webp?raw=true",
       "manifestUrl": "https://example.com/foundry/my-module/manifest.json"
     },
     {
-      "id": "premium-module-id",
-      "title": "Premium Adventure",
-      "coverImage": "https://example.com/images/premium-cover.jpg",
+      "id": "ag-sod",
+      "title": "Shore of Dreams",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/sod.webp?raw=true",
       "isPremium": true,
-      "storeUrl": "https://store.example.com/premium-adventure"
+      "detailsUrl": "https://boosty.to/omar0275/posts/396d74e6-aa17-4136-881d-33d7d2487865"
+      "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099"
     }
   ]
 }
