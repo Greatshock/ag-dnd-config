@@ -1,0 +1,18 @@
+{
+  "modules": [
+    {
+      "id": "my-module-id",
+      "title": "My Cool Module",
+      "coverImage": "https://example.com/images/my-module-cover.jpg",
+      "isPremium": false,
+      "manifestUrl": "https://example.com/foundry/my-module/manifest.json"
+    },
+    {
+      "id": "premium-module-id",
+      "title": "Premium Adventure",
+      "coverImage": "https://example.com/images/premium-cover.jpg",
+      "isPremium": true,
+      "storeUrl": "https://store.example.com/premium-adventure"
+    }
+  ]
+}
