@@ -7,7 +7,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/ag-dnd-2024.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
-      "storeUrl": "https://boosty.to/omar0275/posts/d76c7759-d405-45c6-b45e-cf3866521db3"
+      "storeUrl": "https://boosty.to/omar0275/posts/d76c7759-d405-45c6-b45e-cf3866521db3",
+      "tags": ["sourceBook", "2024"]
     },
     {
       "id": "ag-dragon-delves",
@@ -15,7 +16,8 @@
       "description": "Антология приключений про драконов для персонажей с 1-го по 12-й уровень.",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/drde.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/095c613f-9a67-4f27-98e6-fb24e86a9a0a",
-      "manifestUrl": "https://gitlab.com/adventure-guys/ag-dragon-delves/-/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/ag-dragon-delves/-/raw/main/module.json",
+      "tags": ["adventure", "2024"]
     },
     {
       "id": "ag-goblin-trouble",
@@ -23,7 +25,8 @@
       "description": "Приключение, которое познакомит новых игроков и Мастера с игрой. Вас нанял смотритель Крепости Пограничья, чтобы отыскать воров, укравших Чашу изобилия. Эту большую чашу подарили крепости, сообщив, что она приносит удачу вкусившим из неё.",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/goblin-trouble.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/6eb72893-fbbb-4930-bb15-2aa58bbb0390",
-      "manifestUrl": "https://gitlab.com/adventure-guys/goblin-trouble/-/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/goblin-trouble/-/raw/main/module.json",
+      "tags": ["adventure", "2024"]
     },
     {
       "id": "ag-hbtd",
@@ -31,7 +34,8 @@
       "description": "Глубоко в Западном Сердцеземье злой красный волшебник намеревается захватить чужие земли. Сразитесь с ордами смертоносных чудовищ и защитите могущественную крепость от разрушения в этом сложном приключении, рассчитанном на одну игровую встречу.",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/hold-back-dead.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/df114e9f-8e2a-469c-badf-866f4b514358",
-      "manifestUrl": "https://gitlab.com/adventure-guys/hbtd/-/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/hbtd/-/raw/main/module.json",
+      "tags": ["adventure", "2024"]
     },
     {
       "id": "ag-sod",
@@ -40,7 +44,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/sod.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/396d74e6-aa17-4136-881d-33d7d2487865",
-      "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099"
+      "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-blue-alley",
@@ -49,7 +54,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/blue-alley.jpg?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/396d74e6-aa17-4136-881d-33d7d2487865",
-      "storeUrl": "https://boosty.to/omar0275/posts/69fcf1ab-53c3-40c6-9af2-e036f14306ec"
+      "storeUrl": "https://boosty.to/omar0275/posts/69fcf1ab-53c3-40c6-9af2-e036f14306ec",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-7cog",
@@ -57,7 +63,8 @@
       "description": "Героям в руки попадает зачарованная книга безумного волшебника Гилберта. По легенде, её страницы скрывают путь к месту, где спрятаны три кольца необычайной магической силы. Смогут ли герои пройти все испытания и заполучить один из ценных артефактов?",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/7-challenges-of-gilbert.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/41ca33c9-4139-4ea0-942d-5eeb5dc440df",
-      "manifestUrl": "https://gitlab.com/adventure-guys/7-challenges-of-gilbert/-/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/7-challenges-of-gilbert/-/raw/main/module.json",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-dnd-sex",
@@ -65,7 +72,8 @@
       "description": "Пикантное дополнение для ваших приключений. Правила, предметы, действия, таблицы и происхождения по теме.",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/ag-dnd-sex.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/43f4a82d-7d72-4291-b82d-9fca88120da3",
-      "manifestUrl": "https://gitlab.com/adventure-guys/ag-dnd5e-sex/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/ag-dnd5e-sex/raw/main/module.json",
+      "tags": ["sourceBook", "2014", "2024"]
     },
     {
       "id": "ag-induced-transversion",
@@ -73,7 +81,8 @@
       "description": "Разгадайте тайну странного свечения маяка, приобретая различные мутации, и заплатить ужасную цену, чтобы достичь цели.",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/transversion.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/3c961d9f-ab8a-49e1-b62c-ea43410c3814",
-      "manifestUrl": "https://gitlab.com/adventure-guys/induced-transversion/-/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/induced-transversion/-/raw/main/module.json",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-priyut-stuzhi",
@@ -81,7 +90,8 @@
       "description": "Герои ищут ответы на загадочное убийство, которое связано с постоялым двором. Однако никому нельзя доверять, ведь зло может принять облик любого постояльца.",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/priyut.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/90b156bd-5b32-44ed-bb1e-a17215081c5e",
-      "manifestUrl": "https://gitlab.com/adventure-guys/priyut-stuzhi/-/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/priyut-stuzhi/-/raw/main/module.json",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-tykvennyj-festival",
@@ -98,7 +108,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/twbtw.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/69d1a366-c6df-4d20-96eb-dea9fc41fd68",
-      "storeUrl": "https://boosty.to/omar0275/posts/4fe8c63a-565b-489c-99ba-798427790f91?share=post_link"
+      "storeUrl": "https://boosty.to/omar0275/posts/4fe8c63a-565b-489c-99ba-798427790f91?share=post_link",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-interactive-maps",
@@ -106,7 +117,8 @@
       "description": "Карты известных места и регионы мультивселенной D&D.",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/interactive-maps.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/38614750-98c5-42ad-9bc3-fbc5aaf50fa9",
-      "manifestUrl": "https://gitlab.com/adventure-guys/interactive-maps/ag-interactive-maps/-/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/interactive-maps/ag-interactive-maps/-/raw/main/module.json",
+      "tags": ["sourceBook", "2014", "2024"]
     },
     {
       "id": "ag-wdh",
@@ -115,7 +127,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wdh.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/4d951670-710a-4173-b6e5-263eddafae14",
-      "storeUrl": "https://boosty.to/omar0275/posts/ce87811f-caea-4640-99b2-0324a630f5ec"
+      "storeUrl": "https://boosty.to/omar0275/posts/ce87811f-caea-4640-99b2-0324a630f5ec",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-wild-sheep-chase",
@@ -124,7 +137,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wild-sheep-chase.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/3fed7abe-f892-4e12-8f33-e8ba12830753",
-      "storeUrl": "https://boosty.to/omar0275/posts/967c8caf-4d36-41ce-b8f8-56db7922efe1"
+      "storeUrl": "https://boosty.to/omar0275/posts/967c8caf-4d36-41ce-b8f8-56db7922efe1",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-tomb-annihilation",
@@ -133,7 +147,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/toa.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/d426674d-ac74-45ca-b705-769a74a4b2aa",
-      "storeUrl": "https://boosty.to/omar0275/posts/35269c24-771c-47e9-acb8-5aa7afc5f7ea"
+      "storeUrl": "https://boosty.to/omar0275/posts/35269c24-771c-47e9-acb8-5aa7afc5f7ea",
+      "tags": ["adventure", "2014", "2024"]
     },
     {
       "id": "ag-tayna-osobnyaka",
@@ -142,7 +157,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/tayna-osobnyaka.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/0d5660ad-420b-4191-a62e-c7bf8749282f",
-      "storeUrl": "https://boosty.to/omar0275/posts/ee21d297-d4ac-4d4f-9042-c7ea8c4b65e0"
+      "storeUrl": "https://boosty.to/omar0275/posts/ee21d297-d4ac-4d4f-9042-c7ea8c4b65e0",
+      "tags": ["adventure", "2014"]
     },
     {
       "id": "ag-paitm",
@@ -151,7 +167,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/planescape.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/87e0c2d9-7939-4190-a19b-e41553fdbc02",
-      "storeUrl": "https://boosty.to/omar0275/posts/152ed4d0-0b1f-4d8a-a48f-bd8bffe9103b"
+      "storeUrl": "https://boosty.to/omar0275/posts/152ed4d0-0b1f-4d8a-a48f-bd8bffe9103b",
+      "tags": ["sourceBook", "adventure", "2014"]
     },
     {
       "id": "ag-gnomeregan",
@@ -160,7 +177,8 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/gnomeregan.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/ae80a836-f926-4b3f-bcf2-f809f4ad0a11",
-      "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099"
+      "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099",
+      "tags": ["adventure", "2014"]
     }
   ]
 }
