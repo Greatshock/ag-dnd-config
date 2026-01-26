@@ -3,7 +3,7 @@
     {
       "id": "ag-dnd2024",
       "title": "D&D 2024 Core",
-      "description": "",
+      "description": "Базовый модуль с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/ag-dnd-2024.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
@@ -45,7 +45,7 @@
     {
       "id": "ag-blue-alley",
       "title": "Вотердип: Голубая аллея",
-      "description": "",
+      "description": "Этот магический лабиринт в сердце Вотердипа полон ловушек, чудовищ и несметных сокровищ. Множество искателей приключений отправлялось внутрь, но лишь немногие вернулись. Теперь настал ваш черёд...",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/blue-alley.jpg?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/396d74e6-aa17-4136-881d-33d7d2487865",
@@ -79,7 +79,7 @@
       "id": "ag-priyut-stuzhi",
       "title": "Приют стужи",
       "description": "Герои ищут ответы на загадочное убийство, которое связано с постоялым двором. Однако никому нельзя доверять, ведь зло может принять облик любого постояльца.",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/transversion.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/priyut.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/90b156bd-5b32-44ed-bb1e-a17215081c5e",
       "manifestUrl": "https://gitlab.com/adventure-guys/priyut-stuzhi/-/raw/main/module.json"
     },
@@ -103,7 +103,7 @@
     {
       "id": "ag-interactive-maps",
       "title": "Карты D&D",
-      "description": "Карты известных места и регионы мультивселенной D&amp;D.",
+      "description": "Карты известных места и регионы мультивселенной D&D.",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/interactive-maps.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/38614750-98c5-42ad-9bc3-fbc5aaf50fa9",
       "manifestUrl": "https://gitlab.com/adventure-guys/interactive-maps/ag-interactive-maps/-/raw/main/module.json"
@@ -121,7 +121,7 @@
       "id": "ag-wild-sheep-chase",
       "title": "Охота на овец",
       "description": "Волшебник, ставший жертвой озлобленного ученика, теперь в форме овцы! Помогите ему!",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wdh.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wild-sheep-chase.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/3fed7abe-f892-4e12-8f33-e8ba12830753",
       "storeUrl": "https://boosty.to/omar0275/posts/967c8caf-4d36-41ce-b8f8-56db7922efe1"
@@ -130,7 +130,7 @@
       "id": "ag-tomb-annihilation",
       "title": "Гробница аннигиляции",
       "description": "Исследуйте таинственные джунгли, расследуя Проклятие Смерти, охватившее весь мир.",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wdh.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/toa.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/d426674d-ac74-45ca-b705-769a74a4b2aa",
       "storeUrl": "https://boosty.to/omar0275/posts/35269c24-771c-47e9-acb8-5aa7afc5f7ea"
@@ -139,7 +139,7 @@
       "id": "ag-tayna-osobnyaka",
       "title": "Тайна особняка",
       "description": "Смогут ли герои разобраться в тайнах особняка Уэйтли и остановить злые силы?",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wdh.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/tayna-osobnyaka.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/0d5660ad-420b-4191-a62e-c7bf8749282f",
       "storeUrl": "https://boosty.to/omar0275/posts/ee21d297-d4ac-4d4f-9042-c7ea8c4b65e0"
@@ -147,8 +147,8 @@
     {
       "id": "ag-paitm",
       "title": "Planescape: приключения в мультивселенной",
-      "description": "Исследуйте Внешние планы и посетите планарный мегаполис Сигил!",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wdh.webp?raw=true",
+      "description": "Исследуйте Внешние планы и посетите планарный мегаполис Сигил! Также содержит приключение Поворот колеса Фортуны.",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/planescape.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/87e0c2d9-7939-4190-a19b-e41553fdbc02",
       "storeUrl": "https://boosty.to/omar0275/posts/152ed4d0-0b1f-4d8a-a48f-bd8bffe9103b"
@@ -156,8 +156,8 @@
     {
       "id": "ag-gnomeregan",
       "title": "Гномреган",
-      "description": "Верните гномам их город в этом подземелье из Warcraft.",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wdh.webp?raw=true",
+      "description": "Верните гномам Альянса их родной город в этом подземелье из World of Warcraft.",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/gnomeregan.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/ae80a836-f926-4b3f-bcf2-f809f4ad0a11",
       "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099"
