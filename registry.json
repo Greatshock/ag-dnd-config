@@ -3,7 +3,7 @@
     {
       "id": "ag-dnd2024",
       "title": "D&D 2024 Core",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/ag-dnd-2024.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/ag-dnd-2024.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
       "storeUrl": "https://boosty.to/omar0275/posts/d76c7759-d405-45c6-b45e-cf3866521db3"
@@ -11,28 +11,28 @@
     {
       "id": "ag-dragon-delves",
       "title": "Чертоги драконов",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/drde.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/drde.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/095c613f-9a67-4f27-98e6-fb24e86a9a0a",
       "manifestUrl": "https://gitlab.com/adventure-guys/ag-dragon-delves/-/raw/main/module.json"
     },
     {
       "id": "ag-goblin-trouble",
       "title": "Пограничье: проблема с гоблинами",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/goblin-trouble.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/goblin-trouble.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/6eb72893-fbbb-4930-bb15-2aa58bbb0390",
       "manifestUrl": "https://gitlab.com/adventure-guys/goblin-trouble/-/raw/main/module.json"
     },
     {
       "id": "ag-hbtd",
       "title": "Сдержать мертвецов",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/hold-back-dead.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/hold-back-dead.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/df114e9f-8e2a-469c-badf-866f4b514358",
       "manifestUrl": "https://gitlab.com/adventure-guys/hbtd/-/raw/main/module.json"
     },
     {
       "id": "ag-sod",
       "title": "Берег грёз",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/sod.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/sod.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/396d74e6-aa17-4136-881d-33d7d2487865",
       "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099"
@@ -40,7 +40,7 @@
     {
       "id": "ag-blue-alley",
       "title": "Вотердип: Голубая аллея",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/blue-alley.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/blue-alley.webp?raw=true",
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/396d74e6-aa17-4136-881d-33d7d2487865",
       "storeUrl": "https://boosty.to/omar0275/posts/69fcf1ab-53c3-40c6-9af2-e036f14306ec"
@@ -48,7 +48,7 @@
     {
       "id": "ag-7cog",
       "title": "7 испытаний Гилберта",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/blue-alley.webp?raw=true",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/blue-alley.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/41ca33c9-4139-4ea0-942d-5eeb5dc440df",
       "manifestUrl": "https://gitlab.com/adventure-guys/7-challenges-of-gilbert/-/raw/main/module.json"
     }
