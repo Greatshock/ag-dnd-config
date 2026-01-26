@@ -1,4 +1,5 @@
 {
+  "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "one-shot"],
   "modules": [
     {
       "id": "ag-dnd2024",
@@ -17,7 +18,7 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/drde.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/095c613f-9a67-4f27-98e6-fb24e86a9a0a",
       "manifestUrl": "https://gitlab.com/adventure-guys/ag-dragon-delves/-/raw/main/module.json",
-      "tags": ["adventure", "2024"]
+      "tags": ["adventure", "2024", "one-shot", "campaign"]
     },
     {
       "id": "ag-goblin-trouble",
@@ -26,7 +27,7 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/goblin-trouble.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/6eb72893-fbbb-4930-bb15-2aa58bbb0390",
       "manifestUrl": "https://gitlab.com/adventure-guys/goblin-trouble/-/raw/main/module.json",
-      "tags": ["adventure", "2024"]
+      "tags": ["adventure", "2024", "one-shot"]
     },
     {
       "id": "ag-hbtd",
@@ -35,7 +36,7 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/hold-back-dead.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/df114e9f-8e2a-469c-badf-866f4b514358",
       "manifestUrl": "https://gitlab.com/adventure-guys/hbtd/-/raw/main/module.json",
-      "tags": ["adventure", "2024"]
+      "tags": ["adventure", "2024", "one-shot"]
     },
     {
       "id": "ag-sod",
@@ -45,7 +46,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/396d74e6-aa17-4136-881d-33d7d2487865",
       "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "one-shot"]
     },
     {
       "id": "ag-blue-alley",
@@ -55,7 +56,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/396d74e6-aa17-4136-881d-33d7d2487865",
       "storeUrl": "https://boosty.to/omar0275/posts/69fcf1ab-53c3-40c6-9af2-e036f14306ec",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "one-shot"]
     },
     {
       "id": "ag-7cog",
@@ -64,7 +65,7 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/7-challenges-of-gilbert.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/41ca33c9-4139-4ea0-942d-5eeb5dc440df",
       "manifestUrl": "https://gitlab.com/adventure-guys/7-challenges-of-gilbert/-/raw/main/module.json",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "one-shot"]
     },
     {
       "id": "ag-dnd-sex",
@@ -82,7 +83,7 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/transversion.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/3c961d9f-ab8a-49e1-b62c-ea43410c3814",
       "manifestUrl": "https://gitlab.com/adventure-guys/induced-transversion/-/raw/main/module.json",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "one-shot"]
     },
     {
       "id": "ag-priyut-stuzhi",
@@ -91,7 +92,7 @@
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/priyut.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/90b156bd-5b32-44ed-bb1e-a17215081c5e",
       "manifestUrl": "https://gitlab.com/adventure-guys/priyut-stuzhi/-/raw/main/module.json",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "one-shot"]
     },
     {
       "id": "ag-tykvennyj-festival",
@@ -99,7 +100,8 @@
       "description": "Весёлые конкурсы и бродячие артисты радуют посетителей фестиваля, но староста обеспокоен безопасностью: в деревне пропадает домашняя птица, скот и даже людей...",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/festival.webp?raw=true",
       "detailsUrl": "https://boosty.to/omar0275/posts/73a569c2-48c2-46d4-b5cb-9d260575e9f0",
-      "manifestUrl": "https://gitlab.com/adventure-guys/tykvennyj-festival/-/raw/main/module.json"
+      "manifestUrl": "https://gitlab.com/adventure-guys/tykvennyj-festival/-/raw/main/module.json",
+      "tags": ["adventure", "2014", "one-shot"]
     },
     {
       "id": "ag-witchlight",
@@ -109,7 +111,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/69d1a366-c6df-4d20-96eb-dea9fc41fd68",
       "storeUrl": "https://boosty.to/omar0275/posts/4fe8c63a-565b-489c-99ba-798427790f91?share=post_link",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "campaign"]
     },
     {
       "id": "ag-interactive-maps",
@@ -128,7 +130,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/4d951670-710a-4173-b6e5-263eddafae14",
       "storeUrl": "https://boosty.to/omar0275/posts/ce87811f-caea-4640-99b2-0324a630f5ec",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "campaign"]
     },
     {
       "id": "ag-wild-sheep-chase",
@@ -138,7 +140,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/3fed7abe-f892-4e12-8f33-e8ba12830753",
       "storeUrl": "https://boosty.to/omar0275/posts/967c8caf-4d36-41ce-b8f8-56db7922efe1",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "one-shot"]
     },
     {
       "id": "ag-tomb-annihilation",
@@ -148,7 +150,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/d426674d-ac74-45ca-b705-769a74a4b2aa",
       "storeUrl": "https://boosty.to/omar0275/posts/35269c24-771c-47e9-acb8-5aa7afc5f7ea",
-      "tags": ["adventure", "2014", "2024"]
+      "tags": ["adventure", "2014", "2024", "campaign"]
     },
     {
       "id": "ag-tayna-osobnyaka",
@@ -158,7 +160,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/0d5660ad-420b-4191-a62e-c7bf8749282f",
       "storeUrl": "https://boosty.to/omar0275/posts/ee21d297-d4ac-4d4f-9042-c7ea8c4b65e0",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "one-shot"]
     },
     {
       "id": "ag-paitm",
@@ -168,7 +170,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/87e0c2d9-7939-4190-a19b-e41553fdbc02",
       "storeUrl": "https://boosty.to/omar0275/posts/152ed4d0-0b1f-4d8a-a48f-bd8bffe9103b",
-      "tags": ["sourceBook", "adventure", "2014"]
+      "tags": ["sourceBook", "adventure", "2014", "campaign"]
     },
     {
       "id": "ag-gnomeregan",
@@ -178,7 +180,7 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/ae80a836-f926-4b3f-bcf2-f809f4ad0a11",
       "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099",
-      "tags": ["adventure", "2014"]
+      "tags": ["adventure", "2014", "campaign", "one-shot"]
     }
   ]
 }
