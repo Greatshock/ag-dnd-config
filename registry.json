@@ -38,6 +38,46 @@
       "manifestUrl": "https://gitlab.com/adventure-guys/hbtd/-/raw/main/module.json",
       "tags": ["adventure", "2024", "short"]
     },
+     {
+      "id": "ag-wdh",
+      "title": "Вотердип: Драконий куш",
+      "description": "Приготовьтесь раскрыть крупный заговор и выведите на чистую воду когорту влиятельных персон города.",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wdh.webp?raw=true",
+      "isPremium": true,
+      "detailsUrl": "https://boosty.to/omar0275/posts/4d951670-710a-4173-b6e5-263eddafae14",
+      "storeUrl": "https://boosty.to/omar0275/posts/ce87811f-caea-4640-99b2-0324a630f5ec",
+      "tags": ["adventure", "2014", "campaign"]
+    },
+    {
+      "id": "ag-tomb-annihilation",
+      "title": "Гробница аннигиляции",
+      "description": "Исследуйте таинственные джунгли, расследуя Проклятие Смерти, охватившее весь мир.",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/toa.webp?raw=true",
+      "isPremium": true,
+      "detailsUrl": "https://boosty.to/omar0275/posts/d426674d-ac74-45ca-b705-769a74a4b2aa",
+      "storeUrl": "https://boosty.to/omar0275/posts/35269c24-771c-47e9-acb8-5aa7afc5f7ea",
+      "tags": ["adventure", "2014", "2024", "campaign"]
+    },
+    {
+      "id": "ag-witchlight",
+      "title": "За гранью Сумеречного Света",
+      "description": "Лишь раз в восемь лет фантастический карнавал Сумеречного Cвета появляется в вашем мире, принося радость каждому поселению.",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/twbtw.webp?raw=true",
+      "isPremium": true,
+      "detailsUrl": "https://boosty.to/omar0275/posts/69d1a366-c6df-4d20-96eb-dea9fc41fd68",
+      "storeUrl": "https://boosty.to/omar0275/posts/4fe8c63a-565b-489c-99ba-798427790f91?share=post_link",
+      "tags": ["adventure", "2014", "campaign"]
+    },
+    {
+      "id": "ag-paitm",
+      "title": "Planescape: приключения в мультивселенной",
+      "description": "Исследуйте Внешние планы и посетите планарный мегаполис Сигил! Также содержит приключение Поворот колеса Фортуны.",
+      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/planescape.webp?raw=true",
+      "isPremium": true,
+      "detailsUrl": "https://boosty.to/omar0275/posts/87e0c2d9-7939-4190-a19b-e41553fdbc02",
+      "storeUrl": "https://boosty.to/omar0275/posts/152ed4d0-0b1f-4d8a-a48f-bd8bffe9103b",
+      "tags": ["sourceBook", "adventure", "2014", "campaign"]
+    },
     {
       "id": "ag-sod",
       "title": "Берег грёз",
@@ -50,7 +90,7 @@
     },
     {
       "id": "ag-blue-alley",
-      "title": "Вотердип: Голубая аллея",
+      "title": "Вотердип: Синий переулок",
       "description": "Этот магический лабиринт в сердце Вотердипа полон ловушек, чудовищ и несметных сокровищ. Множество искателей приключений отправлялось внутрь, но лишь немногие вернулись. Теперь настал ваш черёд...",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/blue-alley.jpg?raw=true",
       "isPremium": true,
@@ -104,16 +144,6 @@
       "tags": ["adventure", "2014", "short"]
     },
     {
-      "id": "ag-witchlight",
-      "title": "За гранью Сумеречного Света",
-      "description": "Лишь раз в восемь лет фантастический карнавал Сумеречного Cвета появляется в вашем мире, принося радость каждому поселению.",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/twbtw.webp?raw=true",
-      "isPremium": true,
-      "detailsUrl": "https://boosty.to/omar0275/posts/69d1a366-c6df-4d20-96eb-dea9fc41fd68",
-      "storeUrl": "https://boosty.to/omar0275/posts/4fe8c63a-565b-489c-99ba-798427790f91?share=post_link",
-      "tags": ["adventure", "2014", "campaign"]
-    },
-    {
       "id": "ag-interactive-maps",
       "title": "Карты D&D",
       "description": "Карты известных места и регионы мультивселенной D&D.",
@@ -121,16 +151,6 @@
       "detailsUrl": "https://boosty.to/omar0275/posts/38614750-98c5-42ad-9bc3-fbc5aaf50fa9",
       "manifestUrl": "https://gitlab.com/adventure-guys/interactive-maps/ag-interactive-maps/-/raw/main/module.json",
       "tags": ["sourceBook", "2014", "2024"]
-    },
-    {
-      "id": "ag-wdh",
-      "title": "Вотердип: Драконий куш",
-      "description": "Приготовьтесь раскрыть крупный заговор и выведите на чистую воду когорту влиятельных персон города.",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/wdh.webp?raw=true",
-      "isPremium": true,
-      "detailsUrl": "https://boosty.to/omar0275/posts/4d951670-710a-4173-b6e5-263eddafae14",
-      "storeUrl": "https://boosty.to/omar0275/posts/ce87811f-caea-4640-99b2-0324a630f5ec",
-      "tags": ["adventure", "2014", "campaign"]
     },
     {
       "id": "ag-wild-sheep-chase",
@@ -143,16 +163,6 @@
       "tags": ["adventure", "2014", "short"]
     },
     {
-      "id": "ag-tomb-annihilation",
-      "title": "Гробница аннигиляции",
-      "description": "Исследуйте таинственные джунгли, расследуя Проклятие Смерти, охватившее весь мир.",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/toa.webp?raw=true",
-      "isPremium": true,
-      "detailsUrl": "https://boosty.to/omar0275/posts/d426674d-ac74-45ca-b705-769a74a4b2aa",
-      "storeUrl": "https://boosty.to/omar0275/posts/35269c24-771c-47e9-acb8-5aa7afc5f7ea",
-      "tags": ["adventure", "2014", "2024", "campaign"]
-    },
-    {
       "id": "ag-tayna-osobnyaka",
       "title": "Тайна особняка",
       "description": "Смогут ли герои разобраться в тайнах особняка Уэйтли и остановить злые силы?",
@@ -161,16 +171,6 @@
       "detailsUrl": "https://boosty.to/omar0275/posts/0d5660ad-420b-4191-a62e-c7bf8749282f",
       "storeUrl": "https://boosty.to/omar0275/posts/ee21d297-d4ac-4d4f-9042-c7ea8c4b65e0",
       "tags": ["adventure", "2014", "short"]
-    },
-    {
-      "id": "ag-paitm",
-      "title": "Planescape: приключения в мультивселенной",
-      "description": "Исследуйте Внешние планы и посетите планарный мегаполис Сигил! Также содержит приключение Поворот колеса Фортуны.",
-      "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/planescape.webp?raw=true",
-      "isPremium": true,
-      "detailsUrl": "https://boosty.to/omar0275/posts/87e0c2d9-7939-4190-a19b-e41553fdbc02",
-      "storeUrl": "https://boosty.to/omar0275/posts/152ed4d0-0b1f-4d8a-a48f-bd8bffe9103b",
-      "tags": ["sourceBook", "adventure", "2014", "campaign"]
     },
     {
       "id": "ag-gnomeregan",
