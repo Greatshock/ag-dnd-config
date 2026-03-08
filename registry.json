@@ -3,7 +3,7 @@
   "modules": [
     {
       "id": "ag-dnd2024",
-      "title": "D&D 2024 Core",
+      "title": "AG D&D 2024",
       "description": "Базовый модуль с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/ag-dnd-2024.webp?raw=true",
       "isPremium": true,
