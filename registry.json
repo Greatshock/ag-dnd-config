@@ -4,11 +4,10 @@
     {
       "id": "ag-dnd2024",
       "title": "AG D&D 2024",
-      "description": "Базовый модуль с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
+      "description": "Основной модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
       "coverImage": "https://github.com/Greatshock/ag-dnd-config/blob/master/images/ag-dnd-2024.webp?raw=true",
-      "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
-      "storeUrl": "https://boosty.to/omar0275/posts/d76c7759-d405-45c6-b45e-cf3866521db3",
+      "manifestUrl": "https://fs.adventureguys.club/s/rkr5ptx9cL9GWJQ/download",
       "tags": ["sourceBook", "2024"]
     },
     {
