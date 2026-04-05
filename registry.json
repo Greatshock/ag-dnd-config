@@ -24,8 +24,9 @@
       "title": "Пограничье: проблема с гоблинами",
       "description": "Приключение, которое познакомит новых игроков и Мастера с игрой. Вас нанял смотритель Крепости Пограничья, чтобы отыскать воров, укравших Чашу изобилия. Эту большую чашу подарили крепости, сообщив, что она приносит удачу вкусившим из неё.",
       "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/goblin-trouble.webp",
+      "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/6eb72893-fbbb-4930-bb15-2aa58bbb0390",
-      "manifestUrl": "https://gitlab.com/adventure-guys/goblin-trouble/-/raw/main/module.json",
+      "storeUrl": "https://boosty.to/omar0275/posts/6cbaa8e5-8742-4a26-bc3e-0dea47251e9a",
       "tags": ["adventure", "2024", "short"]
     },
     {
