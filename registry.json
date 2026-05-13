@@ -15,8 +15,9 @@
       "title": "Чертоги драконов",
       "description": "Антология приключений про драконов для персонажей с 1-го по 12-й уровень.",
       "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/drde.webp",
+      "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/095c613f-9a67-4f27-98e6-fb24e86a9a0a",
-      "manifestUrl": "https://gitlab.com/adventure-guys/ag-dragon-delves/-/raw/main/module.json",
+      "storeUrl": "https://boosty.to/omar0275/posts/6cbaa8e5-8742-4a26-bc3e-0dea47251e9a",
       "tags": ["adventure", "2024", "short", "campaign"]
     },
     {
