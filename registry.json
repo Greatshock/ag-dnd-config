@@ -2,12 +2,12 @@
   "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "short"],
   "modules": [
     {
-      "id": "ag-dnd2024",
-      "title": "AG D&D 2024",
-      "description": "Основной модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
-      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/ag-dnd-2024.webp",
+      "id": "ag-fifthpendium",
+      "title": "AG Fifthpendium",
+      "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/fifthpendium.webp",
       "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
-      "manifestUrl": "https://fs.adventureguys.club/s/rkr5ptx9cL9GWJQ/download",
+      "manifestUrl": "https://fs.adventureguys.club/s/Ho3qbzSWYYLBjHH/download",
       "tags": ["sourceBook", "2024"]
     },
     {
@@ -182,6 +182,15 @@
       "detailsUrl": "https://boosty.to/omar0275/posts/ae80a836-f926-4b3f-bcf2-f809f4ad0a11",
       "storeUrl": "https://boosty.to/omar0275/posts/7d9e0d18-bc28-4a7e-bcb2-2e88dc62b099",
       "tags": ["adventure", "2014", "campaign", "short"]
+    },
+        {
+      "id": "ag-dnd2024",
+      "title": "AG D&D 2024",
+      "description": "Устаревший модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/ag-dnd-2024.webp",
+      "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
+      "manifestUrl": "https://fs.adventureguys.club/s/rkr5ptx9cL9GWJQ/download",
+      "tags": ["sourceBook", "2024"]
     }
   ]
 }
