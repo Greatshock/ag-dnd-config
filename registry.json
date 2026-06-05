@@ -2,6 +2,16 @@
   "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "short"],
   "modules": [
     {
+      "id": "ag-fifthpendium-eberron",
+      "title": "AG Eberron",
+      "description": "Компендиум с контентом из Eberron: Forge of the Artificer и Exploring Eberron.",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/eberron.webp",
+      "isPremium": true,
+      "detailsUrl": "https://boosty.to/omar0275/posts/804d6564-4758-47c1-902b-95b5f2b3ea17",
+      "storeUrl": "https://boosty.to/omar0275/posts/a4d6b5d7-5277-4365-83fe-408d323150c8",
+      "tags": ["sourceBook", "2024"]
+    },
+    {
       "id": "ag-fifthpendium",
       "title": "AG Fifthpendium",
       "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
