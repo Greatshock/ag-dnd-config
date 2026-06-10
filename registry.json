@@ -2,13 +2,13 @@
   "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "short"],
   "modules": [
     {
-      "id": "ag-fifthpendium-eberron",
-      "title": "AG Eberron",
-      "description": "Компендиум с контентом из Eberron: Forge of the Artificer и Exploring Eberron.",
-      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/eberron.webp",
+      "id": "ag-fifthpendium-forgotten-realms",
+      "title": "AG Fifthpendium: Забытые Королевства",
+      "description": "Компендиум с контентом из книг по Забытым Королевствам.",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/forgotten-realms.webp",
       "isPremium": true,
-      "detailsUrl": "https://boosty.to/omar0275/posts/804d6564-4758-47c1-902b-95b5f2b3ea17",
-      "storeUrl": "https://boosty.to/omar0275/posts/a4d6b5d7-5277-4365-83fe-408d323150c8",
+      "detailsUrl": "https://boosty.to/omar0275/posts/b6d75f0c-e6a8-46cd-96d7-5bcf5ce6a8a2",
+      "storeUrl": "https://boosty.to/omar0275/posts/d76c7759-d405-45c6-b45e-cf3866521db3",
       "tags": ["sourceBook", "2024"]
     },
     {
@@ -18,6 +18,16 @@
       "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/fifthpendium.webp",
       "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
       "manifestUrl": "https://fs.adventureguys.club/s/Ho3qbzSWYYLBjHH/download",
+      "tags": ["sourceBook", "2024"]
+    },
+    {
+      "id": "ag-fifthpendium-eberron",
+      "title": "AG Fifthpendium: Эберрон",
+      "description": "Компендиум с контентом из Eberron: Forge of the Artificer и Exploring Eberron.",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/eberron.webp",
+      "isPremium": true,
+      "detailsUrl": "https://boosty.to/omar0275/posts/804d6564-4758-47c1-902b-95b5f2b3ea17",
+      "storeUrl": "https://boosty.to/omar0275/posts/a4d6b5d7-5277-4365-83fe-408d323150c8",
       "tags": ["sourceBook", "2024"]
     },
     {
