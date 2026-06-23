@@ -2,6 +2,25 @@
   "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "short"],
   "modules": [
     {
+      "id": "ag-fifthpendium",
+      "title": "AG Fifthpendium",
+      "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/fifthpendium.webp",
+      "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
+      "manifestUrl": "https://fs.adventureguys.club/s/Ho3qbzSWYYLBjHH/download",
+      "tags": ["sourceBook", "2024"]
+    },
+    {
+      "id": "ag-fifthpendium-dndbeyond",
+      "title": "AG Fifthpendium: Beyond",
+      "description": "Контент D&D Beyond Drops и Unearthed Arcana.",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/beyond.webp",
+      "isPremium": true,
+      "detailsUrl": "https://boosty.to/omar0275/posts/8b522a79-95d3-41d4-9bc2-d584f9274e3b",
+      "storeUrl": "https://boosty.to/omar0275/posts/90a6ab38-1538-4b74-8022-541ef5d2c2da",
+      "tags": ["sourceBook", "2024"]
+    },
+    {
       "id": "ag-fifthpendium-forgotten-realms",
       "title": "AG Fifthpendium: Забытые Королевства",
       "description": "Компендиум с контентом из книг по Забытым Королевствам.",
@@ -9,15 +28,6 @@
       "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/b6d75f0c-e6a8-46cd-96d7-5bcf5ce6a8a2",
       "storeUrl": "https://boosty.to/omar0275/posts/d76c7759-d405-45c6-b45e-cf3866521db3",
-      "tags": ["sourceBook", "2024"]
-    },
-    {
-      "id": "ag-fifthpendium",
-      "title": "AG Fifthpendium",
-      "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
-      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/fifthpendium.webp",
-      "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
-      "manifestUrl": "https://fs.adventureguys.club/s/Ho3qbzSWYYLBjHH/download",
       "tags": ["sourceBook", "2024"]
     },
     {
