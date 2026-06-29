@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "title": "Наследники Стихийного Зла — новый перевод",
+            "category": "Новости",
+            "href": "https://boosty.to/omar0275/posts/6a8325e4-cb5b-4ce2-bf50-721de6748a77?share=post_link",
+            "icon": "fa-fire",
+            "imageUrl": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/news-images/AG-SoEE-cover.jpg",
+            "featured": true
+        },
+        {
+            "title": "«Книга игрока» и «Энциклопедия чудовищ» в твёрдом переплёте!",
+            "category": "Новости",
+            "href": "https://vk.com/wall-223205874_1875",
+            "icon": "fa-book",
+            "imageUrl": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/news-images/AG-SoEE-cover.jpg"
+        }
+    ]
+}
