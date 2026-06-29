@@ -12,8 +12,7 @@
             "title": "«Книга игрока» и «Энциклопедия чудовищ» в твёрдом переплёте!",
             "category": "Новости",
             "href": "https://vk.com/wall-223205874_1875",
-            "icon": "fa-book",
-            "imageUrl": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/news-images/AG-SoEE-cover.jpg"
+            "icon": "fa-book"
         }
     ]
 }
