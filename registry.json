@@ -6,6 +6,7 @@
       "title": "Наследники Стихийного Зла",
       "description": "Помогите эльфиской королеве и остановите культистов.",
       "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/AG-SoEE-cover.jpg",
+      "isPremium": true,
       "detailsUrl": "https://boosty.to/omar0275/posts/0bee7e90-ddd6-425d-ac0a-5bca2fc6012b?share=post_link",
       "storeUrl": "https://boosty.to/omar0275/posts/11eb67b0-283e-48bc-aa98-f29ac8d7f047?share=post_link",
       "tags": ["adventure", "2024", "short"]
