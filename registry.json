@@ -3,7 +3,7 @@
   "modules": [
       {
       "id": "ag-fifthpendium-ravenloft",
-      "title": "AG Fifthpendium: Рейвенлофт",
+      "title": "Рейвенлофт",
       "description": "Наполните свои приключения ужасами.",
       "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/ravenloft.webp",
       "isPremium": true,
@@ -32,7 +32,7 @@
     },
     {
       "id": "ag-fifthpendium-dndbeyond",
-      "title": "AG Fifthpendium: Beyond",
+      "title": "D&D Beyond",
       "description": "Контент D&D Beyond Drops и Unearthed Arcana.",
       "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/beyond.webp",
       "isPremium": true,
@@ -42,7 +42,7 @@
     },
     {
       "id": "ag-fifthpendium-forgotten-realms",
-      "title": "AG Fifthpendium: Забытые Королевства",
+      "title": "Забытые Королевства",
       "description": "Компендиум с контентом из книг по Забытым Королевствам.",
       "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/forgotten-realms.webp",
       "isPremium": true,
@@ -52,7 +52,7 @@
     },
     {
       "id": "ag-fifthpendium-eberron",
-      "title": "AG Fifthpendium: Эберрон",
+      "title": "Эберрон",
       "description": "Компендиум с контентом из Eberron: Forge of the Artificer и Exploring Eberron.",
       "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/eberron.webp",
       "isPremium": true,
