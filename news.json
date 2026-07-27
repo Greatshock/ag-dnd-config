@@ -1,6 +1,13 @@
 {
     "items": [
         {
+          "title": "Рейвенлофт уже на Ruleholder",
+          "category": "Новости",
+          "description": "Наполните свои приключения ужасами. Контент из «Рейвенлофт: ужасы внутри» уже доступен на сайте.",
+          "imageUrl": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/ravenloft.webp",
+          "icon": "fa-bat"
+        },
+        {
             "title": "Наследники Стихийного Зла — перевод и модуль Foundry VTT",
             "category": "Новости",
             "href": "https://boosty.to/omar0275/posts/6a8325e4-cb5b-4ce2-bf50-721de6748a77?share=post_link",
