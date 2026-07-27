@@ -3,6 +3,7 @@
         {
           "title": "Рейвенлофт уже на Ruleholder",
           "category": "Новости",
+          "href": "https://ruleholder.com/species?source=rhw",
           "description": "Наполните свои приключения ужасами. Контент из «Рейвенлофт: ужасы внутри» уже доступен на сайте.",
           "imageUrl": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/ravenloft.webp",
           "icon": "fa-bat"
