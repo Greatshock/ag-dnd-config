@@ -1,6 +1,14 @@
 {
     "items": [
         {
+          "title": "Книга страстей Астариона!",
+          "category": "Новости",
+          "href": "https://ruleholder.com/sourcebooks/aboh",
+          "description": "Читайте на Ruleholder.",
+          "imageUrl": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/aboh.webp",
+          "icon": "fa-droplet"
+        },
+        {
           "title": "Рейвенлофт уже на Ruleholder",
           "category": "Новости",
           "href": "https://ruleholder.com/species?source=rhw",
