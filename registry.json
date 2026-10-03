@@ -2,6 +2,35 @@
   "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "short"],
   "modules": [
       {
+        "id": "ag-fifthpendium-arcana-unleashed",
+        "title": "Магия неудержимая",
+        "description": "Окунитесь в пронизанный магией мир.",
+        "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/arcana-unleashed-cover",
+        "isPremium": true,
+        "detailsUrl": "https://boosty.to/omar0275/posts/fd125103-f557-4b0b-8226-fc69f20fde69?share=post_link",
+        "storeUrl": "https://boosty.to/omar0275/posts/ae6f989c-1f9f-4b9a-881e-2a4ed75569f4?share=post_link",
+        "tags": ["sourceBook", "2024"]
+      },
+        {
+      "id": "ag-fifthpendium",
+      "title": "AG Fifthpendium",
+      "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/fifthpendium.webp",
+      "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
+      "manifestUrl": "https://fs.adventureguys.club/s/Ho3qbzSWYYLBjHH/download",
+      "tags": ["sourceBook", "2024"]
+    },
+    {
+      "id": "ag-fifthpendium-dndbeyond",
+      "title": "D&D Beyond",
+      "description": "Контент D&D Beyond Drops и Unearthed Arcana.",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/beyond.webp",
+      "isPremium": true,
+      "detailsUrl": "https://boosty.to/omar0275/posts/8b522a79-95d3-41d4-9bc2-d584f9274e3b",
+      "storeUrl": "https://boosty.to/omar0275/posts/90a6ab38-1538-4b74-8022-541ef5d2c2da",
+      "tags": ["sourceBook", "2024"]
+    },
+      {
       "id": "ag-fifthpendium-ravenloft",
       "title": "Рейвенлофт",
       "description": "Наполните свои приключения ужасами.",
@@ -20,25 +49,6 @@
       "detailsUrl": "https://boosty.to/omar0275/posts/0bee7e90-ddd6-425d-ac0a-5bca2fc6012b?share=post_link",
       "storeUrl": "https://boosty.to/omar0275/posts/11eb67b0-283e-48bc-aa98-f29ac8d7f047?share=post_link",
       "tags": ["adventure", "2024", "short"]
-    },
-    {
-      "id": "ag-fifthpendium",
-      "title": "AG Fifthpendium",
-      "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
-      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/fifthpendium.webp",
-      "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
-      "manifestUrl": "https://fs.adventureguys.club/s/Ho3qbzSWYYLBjHH/download",
-      "tags": ["sourceBook", "2024"]
-    },
-    {
-      "id": "ag-fifthpendium-dndbeyond",
-      "title": "D&D Beyond",
-      "description": "Контент D&D Beyond Drops и Unearthed Arcana.",
-      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/beyond.webp",
-      "isPremium": true,
-      "detailsUrl": "https://boosty.to/omar0275/posts/8b522a79-95d3-41d4-9bc2-d584f9274e3b",
-      "storeUrl": "https://boosty.to/omar0275/posts/90a6ab38-1538-4b74-8022-541ef5d2c2da",
-      "tags": ["sourceBook", "2024"]
     },
     {
       "id": "ag-fifthpendium-forgotten-realms",
