@@ -1,7 +1,16 @@
 {
   "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "short"],
   "modules": [
-      {
+    {
+        "id": "ag-heroes-borderlands",
+        "title": "Герои Пограничья",
+        "description": "Стартовый набор D&D 5.5e.",
+        "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/hotb.webp",
+        "detailsUrl": "https://boosty.to/omar0275/posts/62804c96-dcb0-4765-bf2f-1c6b7b705525?share=post_link",
+        "manifestUrl": "https://fs.adventureguys.club/s/dnELaCaipLzejZH/download",
+        "tags": ["adventure", "2024", "campaign"]
+    },
+    {
         "id": "ag-fifthpendium-arcana-unleashed",
         "title": "Магия неудержимая",
         "description": "Окунитесь в пронизанный магией мир.",
@@ -10,8 +19,8 @@
         "detailsUrl": "https://boosty.to/omar0275/posts/fd125103-f557-4b0b-8226-fc69f20fde69?share=post_link",
         "storeUrl": "https://boosty.to/omar0275/posts/ae6f989c-1f9f-4b9a-881e-2a4ed75569f4?share=post_link",
         "tags": ["sourceBook", "2024"]
-      },
-        {
+    },
+    {
       "id": "ag-fifthpendium",
       "title": "AG Fifthpendium",
       "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
