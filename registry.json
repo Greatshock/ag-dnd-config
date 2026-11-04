@@ -1,6 +1,24 @@
 {
   "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "short"],
   "modules": [
+     {
+        "id": "ag-uhlh",
+        "title": "Юни и поиски утраченного рога",
+        "description": "Остановите злого мага, который украл рог Юни для проведения ужасного ритуала.",
+        "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/uni.webp",
+        "detailsUrl": "https://boosty.to/omar0275/posts/f3fb8c19-4000-4ce3-a8e3-14c038a12569",
+        "storeUrl": "https://boosty.to/omar0275/posts/11914def-c08a-4f6b-828f-f601f0ad2902",
+        "tags": ["adventure", "2024", "short"]
+    },
+    {
+      "id": "ag-fifthpendium",
+      "title": "AG Fifthpendium",
+      "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
+      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/fifthpendium.webp",
+      "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
+      "manifestUrl": "https://fs.adventureguys.club/s/Ho3qbzSWYYLBjHH/download",
+      "tags": ["sourceBook", "2024"]
+    },
     {
         "id": "ag-heroes-borderlands",
         "title": "Герои Пограничья",
@@ -19,15 +37,6 @@
         "detailsUrl": "https://boosty.to/omar0275/posts/fd125103-f557-4b0b-8226-fc69f20fde69?share=post_link",
         "storeUrl": "https://boosty.to/omar0275/posts/ae6f989c-1f9f-4b9a-881e-2a4ed75569f4?share=post_link",
         "tags": ["sourceBook", "2024"]
-    },
-    {
-      "id": "ag-fifthpendium",
-      "title": "AG Fifthpendium",
-      "description": "Модуль D&D 5.5e с контентом из «Книги игрока», «Руководства мастера подземелий» и «Энциклопедии чудовищ»",
-      "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/fifthpendium.webp",
-      "detailsUrl": "https://boosty.to/omar0275/posts/cccc598d-e3fe-4d62-9c5e-9e84cf98ec26",
-      "manifestUrl": "https://fs.adventureguys.club/s/Ho3qbzSWYYLBjHH/download",
-      "tags": ["sourceBook", "2024"]
     },
     {
       "id": "ag-fifthpendium-dndbeyond",
