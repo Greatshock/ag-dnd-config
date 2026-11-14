@@ -1,7 +1,16 @@
 {
   "tags": ["sourceBook", "adventure", "2014", "2024", "campaign", "short"],
   "modules": [
-     {
+    {
+        "id": "ag-fifthpendium-tcm",
+        "title": "Кривая луна",
+        "description": "Материалы народного хоррора из книги The Crooked Moon.",
+        "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/tcm.webp",
+        "detailsUrl": "https://boosty.to/omar0275/posts/bb7eef0b-bab6-44b4-aff7-579d47388d1e",
+        "storeUrl": "https://boosty.to/omar0275/posts/229501d3-5223-4a2f-a8ee-759be4a18816",
+        "tags": ["sourceBook", "2024", "campaign"]
+    },
+    {
         "id": "ag-uhlh",
         "title": "Юни и поиски утраченного рога",
         "description": "Остановите злого мага, который украл рог Юни для проведения ужасного ритуала.",
