@@ -6,6 +6,7 @@
         "title": "Кривая луна",
         "description": "Материалы народного хоррора из книги The Crooked Moon.",
         "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/tcm.webp",
+        "isPremium": true,
         "detailsUrl": "https://boosty.to/omar0275/posts/bb7eef0b-bab6-44b4-aff7-579d47388d1e",
         "storeUrl": "https://boosty.to/omar0275/posts/229501d3-5223-4a2f-a8ee-759be4a18816",
         "tags": ["sourceBook", "2024", "campaign"]
@@ -15,6 +16,7 @@
         "title": "Юни и поиски утраченного рога",
         "description": "Остановите злого мага, который украл рог Юни для проведения ужасного ритуала.",
         "coverImage": "https://raw.githubusercontent.com/Greatshock/ag-dnd-config/refs/heads/master/images/uni.webp",
+        "isPremium": true,
         "detailsUrl": "https://boosty.to/omar0275/posts/f3fb8c19-4000-4ce3-a8e3-14c038a12569",
         "storeUrl": "https://boosty.to/omar0275/posts/11914def-c08a-4f6b-828f-f601f0ad2902",
         "tags": ["adventure", "2024", "short"]
